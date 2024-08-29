@@ -1,6 +1,6 @@
 ## Python Foundation for Spatial Analysis - Class Project
 
-This repository contains a Jupyter Notebook developed as part of the "Python Foundation for Spatial Analysis" course, offered by [Spatial Thoughts](https://spatialthoughts.com) in July 2024. The course was instructed by Ujaval Ganghi, with Vigna Purohit serving as the Training Associate.
+This repository contains a Jupyter Notebook developed as part of the "Python Foundation for Spatial Analysis" course offered by [Spatial Thoughts](https://spatialthoughts.com) in July 2024. Ujaval Gandhi instructed the course, and Vigna Purohit served as the Training Associate.
 
 ### Project Overview
 
