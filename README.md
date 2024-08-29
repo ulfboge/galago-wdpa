@@ -35,5 +35,5 @@ This project demonstrates how to combine and analyze spatial datasets using Pyth
 
 ### Acknowledgments
 
-This project was completed as part of the Python Foundation for Spatial Analysis course offered by Spatial Thoughts. Special thanks to the instructor Ujaval Ganghi and the Training Associate Vigna Purohit for their guidance and support.
+This project was completed as part of the Python Foundation for Spatial Analysis course offered by Spatial Thoughts. Special thanks to the instructor Ujaval Gandhi and the Training Associate Vigna Purohit for their guidance and support.
 
